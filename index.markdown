@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: 38th British Colloquium for Theoretical Computer Science
+title: 39th British Colloquium for Theoretical Computer Science
 ---
 ## 3rd-5th April 2023, University of Glasgow
 
