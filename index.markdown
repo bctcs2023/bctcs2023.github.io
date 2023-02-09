@@ -17,6 +17,8 @@ The event will be held at the University of Glasgow's main Gilmorehill campus, i
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2238.480140627911!2d-4.297784183314351!3d55.87168548058528!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4888452fbc615dcf%3A0xd3065691439fc873!2sAdvanced%20Research%20Centre%20%2C%20University%20of%20Glasgow!5e0!3m2!1sen!2suk!4v1675973742336!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
+Accommodation is not provided. However, there are numerous hotels in the West End of Glasgow which are within easy reach of the venue.
+
 ## Registration
 
 Further details to be announced.
