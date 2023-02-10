@@ -19,6 +19,10 @@ The event will be held at the University of Glasgow's main Gilmorehill campus, i
 
 Accommodation is not provided. However, there are numerous hotels in the West End of Glasgow which are within easy reach of the venue.
 
+## Call for Talks
+
+If you would like to contribute a 25 minute talk, please email a title and brief abstract to [the organisers](mailto:bctcs23@lists.cent.gla.ac.uk) by 3rd March 2023. Contributions from PhD students and early career researchers are particularly encouraged. The scope of "theoretical computer science" is intended to be interpreted broadly, so please ensure that your talk is accessible to other students who may not be specialists in your research topic.
+
 ## Registration
 
 Further details to be announced.
