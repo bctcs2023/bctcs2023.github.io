@@ -21,10 +21,10 @@ If you would like to contribute a talk, please email a title, a brief abstract, 
 
 ## Invited Speakers
 
-- Dr Ruth Hoffmann
-- Prof Steve Linton
-- Prof David Manlove
-- Prof Faron Moller
+- Dr Ruth Hoffmann, University of St Andrews
+- Prof Steve Linton, University of St Andrews
+- Prof David Manlove, University of Glasgow
+- Prof Faron Moller, Swansea University
 
 ## Venue and Travel
 
