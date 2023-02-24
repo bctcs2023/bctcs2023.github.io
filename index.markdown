@@ -24,7 +24,7 @@ If you would like to contribute a talk, please email a title, a brief abstract, 
 - Dr Ruth Hoffmann
 - Prof Steve Linton
 - Prof David Manlove
-- Dr Faron Moller
+- Prof Faron Moller
 
 ## Venue and Travel
 
