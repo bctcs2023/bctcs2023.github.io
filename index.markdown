@@ -25,7 +25,7 @@ If you would like to contribute a talk, please email a title, a brief abstract, 
 
 ## Registration
 
-Further details to be announced.
+[Registration is now open](https://www.eventbrite.co.uk/e/bctcs-2023-tickets-557075286177) until 30th March.
 
 **Local Organisers:** <br />
 [Ciaran McCreesh](mailto:ciaran.mccreesh@glasgow.ac.uk)
