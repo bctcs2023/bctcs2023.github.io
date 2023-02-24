@@ -11,6 +11,10 @@ The [British Colloquium for Theoretical Computer Science (BCTCS)](https://www.bc
 
 BCTCS 2023 will include special sessions on implementing theory, and computer science pedagogy.
 
+## Registration
+
+[Registration is now open](https://www.eventbrite.co.uk/e/bctcs-2023-tickets-557075286177) until 30th March.
+
 ## Venue and Travel
 
 The event will be held in the Advanced Research Centre at the University of Glasgow's main Gilmorehill campus, in the West End of Glasgow. The venue is a short walk from Hillhead subway station. The subway, in turn, is easily accessible from Glasgow Central and Glasgow Queen Street railway stations, and Buchanan Street bus station. If arriving by plane, there are regular buses to Buchanan Street bus station from both Glasgow International Airport and Edinburgh International Airport. For further details, see [The University's travel pages](https://www.gla.ac.uk/explore/maps/).
@@ -22,10 +26,6 @@ Accommodation is not provided. However, there are numerous hotels in the West En
 ## Call for Talks
 
 If you would like to contribute a talk, please email a title, a brief abstract, and a very short bio to [the organisers](mailto:bctcs23@lists.cent.gla.ac.uk) by 3rd March 2023. Please specify whether you would prefer to give a 25 + 5 minute talk, or a 5 + 5 minute talk. Contributions from PhD students and early career researchers are particularly encouraged. There are no restrictions on the originality or publication status of submissions. There will be no formal proceedings either, but the abstracts will be available on the event website. The scope of "theoretical computer science" is intended to be interpreted broadly, so please ensure that your talk is accessible to other students who may not be specialists in your research topic.
-
-## Registration
-
-[Registration is now open](https://www.eventbrite.co.uk/e/bctcs-2023-tickets-557075286177) until 30th March.
 
 **Local Organisers:** <br />
 [Ciaran McCreesh](mailto:ciaran.mccreesh@glasgow.ac.uk)
