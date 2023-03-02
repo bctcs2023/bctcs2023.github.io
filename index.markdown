@@ -13,7 +13,7 @@ BCTCS 2023 will include special sessions on implementing theory, and computer sc
 
 ## Registration
 
-[Registration is now open](https://www.eventbrite.co.uk/e/bctcs-2023-tickets-557075286177) until 30th March.
+[Registration is now open](https://www.eventbrite.co.uk/e/bctcs-2023-tickets-557075286177) until 23rd March.
 
 ## Call for Talks
 
