@@ -20,13 +20,5 @@ BCTCS 2023 will include special sessions on implementing theory, and computer sc
 
 If you would like to contribute a talk, please email a title, a brief abstract, and a very short bio to [the organisers](mailto:bctcs23@lists.cent.gla.ac.uk). The 3rd March deadline has passed, but we can fit in a few more talks on a first come first served basis. Please specify whether you would prefer to give a 25 + 5 minute talk, or a 5 + 5 minute talk. Contributions from PhD students and early career researchers are particularly encouraged. There are no restrictions on the originality or publication status of submissions. There will be no formal proceedings either, but the abstracts will be available on the event website. The scope of "theoretical computer science" is intended to be interpreted broadly, so please ensure that your talk is accessible to other students who may not be specialists in your research topic.
 
-## Invited Speakers
-
-- Dr Ruth Hoffmann, University of St Andrews
-- Prof Steve Linton, University of St Andrews
-- Prof David Manlove, University of Glasgow
-- Prof Faron Moller, Swansea University
-- Dr Syed Waqar Nabi, University of Glasgow
-
 **Local Organisers:** <br />
 [Ciaran McCreesh](mailto:ciaran.mccreesh@glasgow.ac.uk)
