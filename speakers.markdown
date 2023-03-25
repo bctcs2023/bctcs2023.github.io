@@ -31,9 +31,18 @@ We will explore different permutation patterns, properties and statistics. While
 A patient who requires a kidney transplant, and who has a willing but incompatible donor, may be able to 'swap' his or her donor with that of another patient, who is in a similar situation, in a cyclic fashion.  Altruistic donors can also trigger "chains" of transplants involving multiple recipients together with their willing but incompatible donors.  Kidney exchange programmes (KEPs) organise the systemic detection of optimal sets of cycles and chains based on their pools of donors and recipients.  There are many examples of KEPs around the world, including the UK Living Kidney Sharing Scheme (UKLKSS).   In this talk I will describe integer programming models and algorithms that can be used to solve the underlying optimisation problem involved in a KEP.  This includes the algorithms developed at Glasgow that have been used by NHS Blood and Transplant for the UKLKSS since 2008.
 
 ## Prof Faron Moller, Swansea University
+![Prof Faron Moller](/assets/FaronMoller.jpg){:style="width:30%; float:right;padding-left:3%; padding-top:13.5%; padding-bottom:8.5%"}
+**Technocamps: Transforming Digital Education Throughout Wales**
 
-**Title and abstract to appear**
+By 2000, it became evident that, in Wales, interest in, knowledge of, and capacity for computing was not keeping pace with the transformational rise of the digital society and economy. Technocamps, the pan-Wales school and community outreach unit established at Swansea University but with a hub in every university in Wales, has throughout this time researched, championed and delivered change in national curricula, qualifications, delivery and professional development in order to foster a sustainable digital skills pipeline in Wales. In this presentation, we highlight the activities and impact of Technocamps, showcasing its wider impact on computing education, practitioners, schools, and learners in Wales, especially with the introduction of the new Curriculum for Wales in September 2022, with its major reform of computer science and cross-curricular digital competencies.
 
 ## Dr Syed Waqar Nabi, University of Glasgow
+**Navigating Pedagogies: Teaching Theory-Heavy Courses to Software Engineering Student**
 
-**Title and abstract to appear**
+![Dr Syed Waqar Nabi](/assets/SyedWaqarNabi.jpg){:style="width:25%; float:left;padding-right:3%; padding-top:1.3%"}
+The landscape of teaching pedagogies is a rich one, and not always easy to navigate. While there has been a shift towards student-centered, "constructivist" approaches to teaching, the more traditional teacher-centred approaches like direct-instruction are still prevalent, more so in theory-heavy courses.
+
+For this talk, I will use theory-heavy courses I teach to Software Engineering Graduate Apprenticeship students as conduits for exploring this pedagogy landscape, discussing experiences with using a number of teaching instruments along the way. This will lead to the specific pedagogy that I have been converging on (but not able to practice as much as I'd like to) called "Competency-Based Education" (CBE), similar to what’s called “mastery learning”. Based on the outcome of a working group on CBE that I was part of, I will go a bit more into what CBE is, how it relates to some other pedagogies, how we can draw inspiration from other teaching domains, and what it might mean to use it for computing education.
+
+Finally, I will connect this discussion to theory-heavy computing science courses in general, and share some thoughts on how (or if) CBE can work for such courses. This part of my talk is very much work-in-progress, and I have quite a few open questions here myself. I would love to hear questions, comments, and ideas in this regard from the audience.
+
