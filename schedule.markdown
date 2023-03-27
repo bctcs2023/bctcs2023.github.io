@@ -170,7 +170,7 @@ permalink: /schedule/
         <td>Peter Strulo</td>
     </tr>
     <tr>
-        <td>17:15</td>
+        <td>17:00</td>
         <td> Lower-order ranks and the structure of the ranges of boolean polynomials on finite prime fields.</td>
         <td>Thomas Karam</td>
     </tr>
