@@ -7,7 +7,7 @@ permalink: /speakers/
 
 # Invited Speakers
 
-## Dr Ruth Hoffmann, University of St Andrews
+<h2 id="DrRuthHoffmann"> Dr Ruth Hoffmann, University of St Andrews</h2>
 
 **Composable Constraint Models for Permutation Patterns and their enumeration**
 
@@ -18,25 +18,24 @@ This has now extended into many fields such as using permutations which contain 
 Constraint programming is a way of solving combinatorial problems by taking variables, the values they can take and constraints which involve the variables. It then searches for one (all, or the optimal) solution (variable, value assignments) which does not violate the constraints.
 We will explore different permutation patterns, properties and statistics. While giving you the many definitions we will see how each translates into a constraint model. Having these many models means that we can now easily mix and match them into useful tools to help solve or help investigate permutation problems computationally.
 
-## Prof Steve Linton, University of St Andrews
+<h2 id="ProfSteveLinton"> Prof Steve Linton, University of St Andrews</h2>
 
 **Title and abstract to appear**
 
-## Prof David Manlove, University of Glasgow
-
+<h2 id="ProfDavidManlove">Prof David Manlove, University of Glasgow</h2>
 **Models and Algorithms for the Kidney Exchange Problem**
 
 ![Prof David Manlove](/assets/DavidManlove.jpg){:style="width:25%; float:left;padding-right:3%; padding-top:5%"}
 
 A patient who requires a kidney transplant, and who has a willing but incompatible donor, may be able to 'swap' his or her donor with that of another patient, who is in a similar situation, in a cyclic fashion.  Altruistic donors can also trigger "chains" of transplants involving multiple recipients together with their willing but incompatible donors.  Kidney exchange programmes (KEPs) organise the systemic detection of optimal sets of cycles and chains based on their pools of donors and recipients.  There are many examples of KEPs around the world, including the UK Living Kidney Sharing Scheme (UKLKSS).   In this talk I will describe integer programming models and algorithms that can be used to solve the underlying optimisation problem involved in a KEP.  This includes the algorithms developed at Glasgow that have been used by NHS Blood and Transplant for the UKLKSS since 2008.
 
-## Prof Faron Moller, Swansea University
+<h2 id="ProfFaronMoller">Prof Faron Moller, Swansea University</h2>
 ![Prof Faron Moller](/assets/FaronMoller.jpg){:style="width:30%; float:right;padding-left:3%; padding-top:13.5%; padding-bottom:8.5%"}
 **Technocamps: Transforming Digital Education Throughout Wales**
 
 By 2000, it became evident that, in Wales, interest in, knowledge of, and capacity for computing was not keeping pace with the transformational rise of the digital society and economy. Technocamps, the pan-Wales school and community outreach unit established at Swansea University but with a hub in every university in Wales, has throughout this time researched, championed and delivered change in national curricula, qualifications, delivery and professional development in order to foster a sustainable digital skills pipeline in Wales. In this presentation, we highlight the activities and impact of Technocamps, showcasing its wider impact on computing education, practitioners, schools, and learners in Wales, especially with the introduction of the new Curriculum for Wales in September 2022, with its major reform of computer science and cross-curricular digital competencies.
 
-## Dr Syed Waqar Nabi, University of Glasgow
+<h2 id="DrSyedWaqarNabi"> Dr Syed Waqar Nabi, University of Glasgow</h2>
 **Navigating Pedagogies: Teaching Theory-Heavy Courses to Software Engineering Student**
 
 ![Dr Syed Waqar Nabi](/assets/SyedWaqarNabi.jpg){:style="width:25%; float:left;padding-right:3%; padding-top:1.3%"}
