@@ -11,7 +11,7 @@ permalink: /speakers/
 
 **Composable Constraint Models for Permutation Patterns and their enumeration**
 
-![Dr Ruth Hoffmann](/assets/RuthHoffmann.jpg){:style="width:30%; float:right;padding-left:3%; padding-top:7.5%; padding-bottom:7.5%"}
+![Dr Ruth Hoffmann](/assets/RuthHoffmann.jpg){:style="width:30%; float:left;padding-right:3%; padding-top:7.5%; padding-bottom:8%"}
 
 Permutation pattern research started off as investigating which sequences of numbers can be sorted by using a stack.
 This has now extended into many fields such as using permutations which contain or avoid certain types of patterns when investigating for example Mahonian statistics.
@@ -20,7 +20,16 @@ We will explore different permutation patterns, properties and statistics. While
 
 <h2 id="ProfSteveLinton"> Prof Steve Linton, University of St Andrews</h2>
 
-**Title and abstract to appear**
+**Three trips around the “virtuous circle”: theory, algorithms, software and experiments**
+
+![Prof David Manlove](/assets/SteveLinton.jpg){:style="width:25%; float:right;padding-left:3%; padding-top:0%"}
+
+My thesis in this talk is that there can be a powerful synergy between the study of mathematical and combinatorial structures in the abstract; the theoretical study of algorithms for computing with those structures and their complexity; the development of flexible and usable software implementations of those algorithms; and the gathering of experimental data using that software, which can fuel new conjectures and lead to new mathematical results, completing the circle.
+
+I will illustrate this thesis with examples from three areas:
+- permutation groups
+- transformation monoids
+- token-passing networks and pattern classes of permutations
 
 <h2 id="ProfDavidManlove">Prof David Manlove, University of Glasgow</h2>
 **Models and Algorithms for the Kidney Exchange Problem**

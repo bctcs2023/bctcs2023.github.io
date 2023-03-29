@@ -111,7 +111,7 @@ permalink: /schedule/
     </tr>
     <tr>
         <td>10:30</td>
-        <td></td>
+        <td><a href="/speakers#ProfSteveLinton">Three trips around the “virtuous circle”: theory, algorithms, software and experiments</a></td>
         <td>Steve Linton</td>
     </tr>
     <tr>
