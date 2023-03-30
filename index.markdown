@@ -10,11 +10,13 @@ title: Home
 
 The [British Colloquium for Theoretical Computer Science (BCTCS)](https://www.bctcs.ac.uk/) is an annual event for UK-based researchers in theoretical computer science. A central aspect of BCTCS is the training of PhD students, providing an environment for students to gain experience in presenting their work, to broaden their outlook on the subject, and to benefit from contact with established researchers. The scope of the colloquium includes all aspects of theoretical computer science, including automata theory, algorithms, complexity theory, semantics, formal methods, concurrency, types, languages and logics.
 
-BCTCS 2023 will include special sessions on implementing theory, and computer science pedagogy.
+### Schedule
+
+The [schedule](/schedule) is now available. All talks will take place in [room 237B in the Advanced Research Centre](/venue). Please note that Google Maps is somewhat out of date regarding recent construction work: the easiest way to reach the building is via the pedestrian street that starts at the junction of Byres Road and University Place.
 
 ## Registration
 
-The registration deadline has now passed, although [we are able to accommodate a small number of late registrations](https://www.eventbrite.co.uk/e/bctcs-2023-tickets-557075286177).
+The registration deadline has now passed.
 
 **Local Organisers:** <br />
 [Ciaran McCreesh](mailto:ciaran.mccreesh@glasgow.ac.uk)
